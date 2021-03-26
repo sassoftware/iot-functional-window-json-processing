@@ -28,7 +28,10 @@ Before watching the video below, create a file called ex1.in containing this:
 
 You will need to put this file in a place accessible by the ESP Server.
 
-![This video will guide you through the first exercise.](files/ex1_json.mp4)
+[![This video will guide you through the first exercise.](video1a.png)](
+http://sas-social.brightcovegallery.com/sharing?videoId=6243889265001
+ "This video will guide you through the first exercise.")
+
 
 #### Event Generation
 
