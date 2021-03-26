@@ -47,9 +47,14 @@ Checking the "Event loops" box allows us to generate many events from a single e
 
 As in the first exercise, you will need to put this file in place accessible by the ESP Server. In the video below, you'll learn how to use event loops in the Functional window to operate on this json object. Throughout the exercise, we will be making small changes to the functional window, one at a time, and see how the output changes.
 
-![This video will guide you through part 1 of the second exercise.](files/ex2a_json.mp4)
-
-![This video will guide you through part 2 of the second exercise.](files/ex2b_json.mp4)
+[![This video will guide you through part 1 of the second exercise.](/images/video2a.png)](
+http://sas-social.brightcovegallery.com/sharing?videoId=6243891524001
+ "This video will guide you through part 1 of the second exercise.")
+ 
+[![This video will guide you through part 2 of the second exercise.](/images/video3a.png)](
+http://sas-social.brightcovegallery.com/sharing?videoId=6243890923001
+ "This video will guide you through part 2 of the second exercise.")
+ 
 
 In this next exercise, we will loop through data with a slightly different structure. Create a file called ex3.in containing this:
 
@@ -59,7 +64,10 @@ In this next exercise, we will loop through data with a slightly different struc
 
 In contrast to the previous exercise, in which we wanted one event for each key we choose, this time we want one event for every value corresponding to a specific tag. In the above data, we have a tag called "value" in which there is an array of 4 elements. We would like one output event for every element in the "value" array.
 
-![This video will guide you through the third exercise.](files/ex3_json.mp4)
+[![This video will guide you through the third exercise.](/images/video3a.png)](
+http://sas-social.brightcovegallery.com/sharing?videoId=6243889854001
+ "This video will guide you through the third exercise.")
+
 
 ## Conclusion
 
