@@ -1,5 +1,7 @@
 # Functional Window JSON Processing
 
+<img src="https://img.shields.io/badge/Category-Data%20Transformation-blue"> <img src="https://img.shields.io/badge/Sub--Category-Functional%20Window-yellowgreen"> <img src="https://img.shields.io/badge/Difficulty-Intermediate-yellow"> <img src="https://img.shields.io/badge/Updated-Mar%202021-orange">
+
 These examples will give the user an understanding of how to use the Functional window to parse and create event loops over JSON objects.
 
 ## Overview
